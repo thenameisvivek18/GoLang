@@ -1,0 +1,6 @@
+bill breakdown
+Capachino:                .....$100
+pie:                      .....$3.99
+cake:                     .....$5.99
+Tip :                    ....$30.2f
+Total :                  ....$112.979999999999990.2f
