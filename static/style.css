@@ -1,0 +1,32 @@
+/* .mytab{
+    margin-top: 8rem;
+    margin-left: 36rem;
+} */
+
+.main{
+    font-weight:400;
+    font-size: medium;
+    text-align:center;
+    width: 300px;
+    background: #00bbbf;
+    margin: 100px auto;
+    padding: 10px 15px 40px 15px;
+    border-radius: 5px;
+    box-shadow: 0px 15px 15px 0px #e1e1e1;
+    color: #fff;
+    
+}
+
+.input{
+    color:black;
+    
+    padding: 2px 2px 2px 2px;
+    margin: 10px 10px 10px 10px;
+}
+
+.btn{
+    color:#fff;
+    background:orange;
+    padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+    margin-top: 2rem;
+}
